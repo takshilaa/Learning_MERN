@@ -82,9 +82,32 @@ body{
      color: #ff4c68;
 }
 
+/* CHANGED SECTION */
+/* Testimonials section */
+
+#testimonials {
+     padding: 7% 15%;
+     text-align: center;
+     background-color: #ef8172;
+     color: #fff;
+     font-family: 'Montserrat', sans-serif;
+ 
+ }
+ 
+ .testimonial-img {
+     width: 20%;
+     border-radius: 100%;
+     margin: 20px;
+ }
+ 
+ .carousel-item {
+     padding: 7% 15%;
+ 
+ }
+/* YOUR SECTION */
 /* testimonials section */
 
-#testimonials{
+/* #testimonials{
     
      text-align: center;
      background-color: #ef8172;
@@ -92,7 +115,7 @@ body{
 .testimonial-image{
      border-radius: 100%;
      padding: 20px;
-}
+} */
 
 #press{
      background-color: #ef8172;
